@@ -1,4 +1,1 @@
-angular.module('myApp', [])
-.controller('myCtrl', function($scope) {
-    $scope.yourName = 'pretoors';
-})
+angular.module('myApp', []);
